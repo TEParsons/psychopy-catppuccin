@@ -5,6 +5,7 @@ name = "psychopy-catppuccin"
 version = "0.0.0" 
 # a brief description of what your plugin does
 description = "Catppuccin themes for PsychoPy"
+readme = "README.md"
 # contact information for yourself and anyone else who worked on the plugin 
 authors = [
   { name = "Todd Parsons", email = "todd.e.parsons@gmail.com" },
