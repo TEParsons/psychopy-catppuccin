@@ -2,7 +2,7 @@
 # the name of your plugin (required)
 name = "psychopy-catppuccin"
 # the current version of the plugin (required)
-version = "0.0.0" 
+version = "0.0.1" 
 # a brief description of what your plugin does
 description = "Catppuccin themes for PsychoPy"
 readme = "README.md"
